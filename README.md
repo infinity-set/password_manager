@@ -94,15 +94,15 @@ The Password Manager application relies on the following Python libraries:
 <img src="https://github.com/infinity-set/password_manager/assets/142350896/a700e033-7962-430c-90a6-c683dc548c3e" height="80%" width="80%" alt="Run PyCharm File"/>
 <br />
 <br />
-<b>Start typing. The text file is created based on the count setting:</b>
+<b>Fill in fields. Click "Generate Password". Click "Add". Verify your entry and accept:</b>
 <br/>
 <br/>
-<img src="https://github.com/infinity-set/key_logger/assets/142350896/58d54041-0c78-4460-8682-5c55625dba4a" height="80%" width="80%" alt="Encryption Steps"/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
 <br />
 <br />
-<b>Generated text file is in the same directory as the script:</b>
+<b>Terminal will print if file format updates were succesfull:</b>
 <br/>
 <br/>
-<img src="https://github.com/infinity-set/key_logger/assets/142350896/fd6f50aa-cfe8-4d2f-abe4-3daf9be7e751" height="80%" width="80%" alt="Encryption/Decryption Key"/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/1b42d023-2a24-4c45-9fc0-bbe69ce73417" height="80%" width="80%" alt="Encryption/Decryption Key"/>
 <br/>  
 </p>
