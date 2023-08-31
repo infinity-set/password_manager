@@ -124,10 +124,10 @@ The Password Manager application relies on the following Python libraries:
 <img src="https://github.com/infinity-set/password_manager/assets/142350896/88f9a41b-4c1a-4dde-9c81-ff6404f9ccdf" height="80%" width="80%" alt="Encryption Steps"/>
 <br />
 <br />
-<b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
+<b>CSV file sample:</b>
 <br/>
 <br/>
-<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/863963c5-af73-4f87-b5ea-8b3c2dc4a469" height="80%" width="80%" alt="Encryption Steps"/>
 <br />
 <br />
 <b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
