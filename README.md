@@ -1,6 +1,6 @@
 # Password Manager GUI
 
-![Password Manager Logo](https://github.com/infinity-set/password_manager/assets/142350896/ccad4dc0-1fae-4c88-844a-1cc82f9fc8f7)
+![Password Manager Logo](https://github.com/infinity-set/password_manager/assets/142350896/3da99247-e0d5-4ac9-b9ee-c489dc39784f)
 
 This is a simple password manager application built using the Tkinter library in Python. The application allows you to manage website information including website names, usernames, emails, and passwords. It provides features such as searching for stored website information, generating passwords, and saving entered data to different formats.
 
@@ -130,25 +130,15 @@ The Password Manager application relies on the following Python libraries:
 <img src="https://github.com/infinity-set/password_manager/assets/142350896/863963c5-af73-4f87-b5ea-8b3c2dc4a469" height="80%" width="80%" alt="Encryption Steps"/>
 <br />
 <br />
-<b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
+<b>Passwords are instantly copied to your clipboard upon successful search. <i></i>Simply paste where desired</i>:</b>
 <br/>
 <br/>
-<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/9a9b861e-9542-42a2-be85-bbea473c1175" height="80%" width="80%" alt="Encryption Steps"/>
 <br />
 <br />
-<b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
+<b>Click "Exit" to end program:</b>
 <br/>
 <br/>
-<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
-<br />
-<br />
-<b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
-<br/>
-<br/>
-<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
-<br />
-<br />
-
-
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/dae14089-d7cb-4739-96a6-8333de386fbe" height="80%" width="80%" alt="Encryption Steps"/>
   
 </p>
