@@ -85,3 +85,24 @@ The Password Manager application relies on the following Python libraries:
 6. Utilize the "Search" button to retrieve stored website information. Upon a successful search, the password will be seamlessly **copied** to the clipboard, requiring ***only a paste action*** for easy use.
 
 
+## Program walk-through:
+
+<p align="center">
+<b>Launch PyCharm and Run the file "key_logger.py":</b>
+<br/>  
+<br/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/a700e033-7962-430c-90a6-c683dc548c3e" height="80%" width="80%" alt="Run PyCharm File"/>
+<br />
+<br />
+<b>Start typing. The text file is created based on the count setting:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/key_logger/assets/142350896/58d54041-0c78-4460-8682-5c55625dba4a" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+<b>Generated text file is in the same directory as the script:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/key_logger/assets/142350896/fd6f50aa-cfe8-4d2f-abe4-3daf9be7e751" height="80%" width="80%" alt="Encryption/Decryption Key"/>
+<br/>  
+</p>
