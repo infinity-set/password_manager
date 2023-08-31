@@ -105,4 +105,50 @@ The Password Manager application relies on the following Python libraries:
 <br/>
 <img src="https://github.com/infinity-set/password_manager/assets/142350896/1b42d023-2a24-4c45-9fc0-bbe69ce73417" height="80%" width="80%" alt="Encryption/Decryption Key"/>
 <br/>  
+<br />
+<b>Three file formats are creatd in the same directory, text, JSON, and CSV:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/43e917ba-89a2-49e4-9efa-cb405b812a0e" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+<b>Text file sample:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/dd6c66ab-4760-4726-8c07-266a3b6ca17b" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+<b>JSON file sample:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/88f9a41b-4c1a-4dde-9c81-ff6404f9ccdf" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+<b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+<b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+<b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+<b>FILLLLLLLLERRRRRRRRRRRRRRR:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/password_manager/assets/142350896/7268f7ef-cc19-4f0d-becd-0cf03fb52cfc" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+
+
+  
 </p>
