@@ -4,6 +4,16 @@
 
 This is a simple password manager application built using the Tkinter library in Python. The application allows you to manage website information including website names, usernames, emails, and passwords. It provides features such as searching for stored website information, generating passwords, and saving entered data to different formats.
 
+## Table of Contents
+
+- [Features](#features)
+- [Why Use This Script?](#why-use-this-script)
+- [Languages and Utilities Used](#languages-and-utilities-used)
+- [Environments Used](#environments-used)
+- [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Program Walk-Through](#program-walk-through)
+
 ## Features
 
 - **Search Function:** You can search for stored website information using the website name. The application retrieves and displays the corresponding username, email, and password if the website entry is found.
@@ -85,7 +95,7 @@ The Password Manager application relies on the following Python libraries:
 6. Utilize the "Search" button to retrieve stored website information. Upon a successful search, the password will be seamlessly **copied** to the clipboard, requiring ***only a paste action*** for easy use.
 
 
-## Program walk-through:
+## Program Walk-Through
 
 <p align="center">
 <b>Launch PyCharm and Run the file "key_logger.py":</b>
