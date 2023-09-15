@@ -58,7 +58,7 @@ By using this script, you can streamline your password management process, enhan
 
 ## Environments Used
 
-- **Windows 10**
+- **Windows**
 
 [<img align="left" alt="Microsoft Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 
