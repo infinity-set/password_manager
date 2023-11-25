@@ -146,7 +146,7 @@ The Password Manager application relies on the following Python libraries:
 <img src="https://github.com/infinity-set/password_manager/assets/142350896/9a9b861e-9542-42a2-be85-bbea473c1175" height="80%" width="80%" alt="Encryption Steps"/>
 <br />
 <br />
-<b>Click "Exit" to end program:</b>
+<b>Click "EXIT" to end program:</b>
 <br/>
 <br/>
 <img src="https://github.com/infinity-set/infinity-set/assets/142350896/5cdcbd7a-54ee-4e5f-8e59-86cd9b2dfd16" height="80%" width="80%" alt="Encryption Steps"/>
