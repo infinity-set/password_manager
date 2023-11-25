@@ -98,7 +98,7 @@ The Password Manager application relies on the following Python libraries:
 ## Program Walk-Through
 
 <p align="center">
-<b>Launch PyCharm and Run the file "key_logger.py":</b>
+<b>Launch PyCharm and Run the file "password_manager.py":</b>
 <br/>  
 <br/>
 <img src="https://github.com/infinity-set/password_manager/assets/142350896/a700e033-7962-430c-90a6-c683dc548c3e" height="80%" width="80%" alt="Run PyCharm File"/>
