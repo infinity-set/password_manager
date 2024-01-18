@@ -153,6 +153,10 @@ The Password Manager application relies on the following Python libraries:
   
 </p>
 
+## Explore Version 2 (OOP)
+
+[Object Oriented Programming - Password Manager Version 2 ](https://github.com/infinity-set/oop_password_manager)
+
 #
 <br>
 
